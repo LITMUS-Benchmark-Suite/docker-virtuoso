@@ -12,7 +12,7 @@ pass = admin
 docker start my-virtuoso
 docker exec -it my-virtuoso /bin/bash
 
-## LOADING DATA ===
+## LOADING DATA
 BSBM DATA:
 
 isql-v -U dba -P admin
